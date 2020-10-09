@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Project-1/static/css/main.99e75adc.chunk.css",
+    "main.js": "/React-Project-1/static/js/main.d0816046.chunk.js",
+    "main.js.map": "/React-Project-1/static/js/main.d0816046.chunk.js.map",
+    "runtime-main.js": "/React-Project-1/static/js/runtime-main.055d22ee.js",
+    "runtime-main.js.map": "/React-Project-1/static/js/runtime-main.055d22ee.js.map",
+    "static/js/2.209823b3.chunk.js": "/React-Project-1/static/js/2.209823b3.chunk.js",
+    "static/js/2.209823b3.chunk.js.map": "/React-Project-1/static/js/2.209823b3.chunk.js.map",
+    "index.html": "/React-Project-1/index.html",
+    "precache-manifest.55bc76b068a3f00bfb96efdabe7a78da.js": "/React-Project-1/precache-manifest.55bc76b068a3f00bfb96efdabe7a78da.js",
+    "service-worker.js": "/React-Project-1/service-worker.js",
+    "static/css/main.99e75adc.chunk.css.map": "/React-Project-1/static/css/main.99e75adc.chunk.css.map",
+    "static/js/2.209823b3.chunk.js.LICENSE.txt": "/React-Project-1/static/js/2.209823b3.chunk.js.LICENSE.txt",
+    "static/media/video.mp4": "/React-Project-1/static/media/video.ed44dc5d.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.055d22ee.js",
+    "static/js/2.209823b3.chunk.js",
+    "static/css/main.99e75adc.chunk.css",
+    "static/js/main.d0816046.chunk.js"
+  ]
+}
